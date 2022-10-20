@@ -1,0 +1,5 @@
+TestCases\ProductListingPageTest.class
+TestCases\HomePageTest.class
+TestCases\LinksOfHomePageTest.class
+TestCases\LanguageDropdownTest.class
+TestCases\CountryDropdownTest.class

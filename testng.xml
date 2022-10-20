@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Repoting.ListenerClass">
+        </listener>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/almas/IdeaProjects/POMWEBCartlow/src/test/java/TestCases/ProductListingPageTest.java">
+        <classes>
+            <class name="TestCases.CountryDropdownTest">
+            </class>
+            <class name="TestCases.LanguageDropdownTest">
+            </class>
+            <class name="TestCases.HomePageTest">
+            </class>
+            <class name="TestCases.ProductListingPageTest">
+            </class>
+            <class name="TestCases.ProductDetailPageTest">
+            </class>
+        </classes>
+
+    </test>
+</suite>
